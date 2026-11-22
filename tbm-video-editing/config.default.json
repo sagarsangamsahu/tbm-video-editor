@@ -1,0 +1,42 @@
+{
+  "mode": "podcast",
+  "language": "en",
+  "speed": 1.1,
+  "whisper_full_model": "base.en",
+  "whisper_clip_model": "small.en",
+  "speaker_color_tolerance": 30,
+  "wide_face_fraction": 0.09,
+  "wide_crop_height": 0.556,
+  "tighten_gaps": null,
+  "captions": {
+    "style": "brand",
+    "key_font": "Impact",
+    "key_color": "#FFE14D",
+    "key_size": 150,
+    "small_font": "Avenir Next Demi Bold",
+    "small_color": "#FFFFFF",
+    "small_size": 80,
+    "small_bold": false,
+    "small_y": 1395,
+    "key_y": 1515
+  },
+  "cta": {
+    "line1": "register for the",
+    "line2": "FREE LIVE WORKSHOP",
+    "seconds": 3.2
+  },
+  "host_phrases": [],
+  "fixes": {},
+  "headline": {
+    "font": "Impact",
+    "size": 104,
+    "bold": false,
+    "uppercase": false,
+    "y": 205,
+    "max_chars": 18,
+    "seconds": null,
+    "outline": 3,
+    "shadow": 5,
+    "shade": true
+  }
+}

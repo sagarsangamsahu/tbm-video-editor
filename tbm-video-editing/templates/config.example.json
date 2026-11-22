@@ -1,0 +1,14 @@
+{
+  "mode": "podcast",
+  "speed": 1.1,
+  "captions": {
+    "style": "brand",
+    "key_color": "#4DA3FF"
+  },
+  "cta": {
+    "line1": "join my",
+    "line2": "FREE MASTERCLASS"
+  },
+  "host_phrases": [],
+  "fixes": {}
+}

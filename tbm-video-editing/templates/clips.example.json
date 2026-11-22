@@ -1,0 +1,10 @@
+[
+  { "name": "01_why_is_clear", "start": 559.73, "end": 602.89,
+    "cuts": [[565.35, 566.11]],
+    "headline": "“WHY WOULD ANYONE|*LEAVE A SAFE JOB?”*" },
+  { "name": "06_posting_is_not_marketing", "start": 1017.21, "end": 1057.17,
+    "ad": true, "cold_open": [1049.2, 1052.3],
+    "broll": [[1029.8, 1032.0, "/path/to/stock/webinar_call.mp4"]] },
+  { "name": "raw_take_1", "start": 0, "end": 75, "tighten_gaps": 0.6,
+    "cuts": [[12.4, 18.9]] }
+]
